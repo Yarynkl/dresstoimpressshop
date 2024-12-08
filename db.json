@@ -2,28 +2,28 @@
    "products": [
     {
         "id": 3,
-        "name": "Outfit for summer",
+        "name": "Outfit Summer",
         "sirname": "crips",
         "photo_url": "https://i.pinimg.com/736x/0a/5a/b0/0a5ab0410276455dc31c7484e623be4b.jpg",
         "price": 12000
     },
     {
         "id": 4,
-        "name": "lays",
+        "name": "Outfit Jellyfish",
         "sirname": "crips",
         "photo_url": "https://i.pinimg.com/736x/c3/d8/4c/c3d84c337c8105cfbaf0a48739440a91.jpg",
         "price": 15000
     },
     {
         "id": 5,
-        "name": "lays",
+        "name": "Outfit Saphire",
         "sirname": "crips",
         "photo_url": "https://i.pinimg.com/736x/fc/1b/7b/fc1b7be9f14a42da1fde3ccfcd70c5d8.jpg",
         "price": 90000
     },
     {
         "id": 3,
-        "name": "jjjjjjjjjj",
+        "name": "Outfit December",
         "sirname": "crips",
         "photo_url": "https://i.pinimg.com/736x/26/db/02/26db02de5d0ad73139fb37879050ba21.jpg",
         "price": 67000
