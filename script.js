@@ -1,7 +1,10 @@
 let productsGrid = document.getElementById('products-grid');
 let productsArray = [];
+let cartProd = document.getElementById('cart-products');
+let cart = [];
 let xhr = new XMLHttpRequest();
 let url = 'https://my-json-server.typicode.com/Yarynkl/dresstoimpressshop';
+
 xhr.open('GET',url + '/products');
 xhr.responseType = 'json'
 xhr.onload = function() {
@@ -25,5 +28,5 @@ xhr.onload = function() {
 xhr.send();
 
 function openCart (){
-    cartProd.classList.toggle('hide');
+    cartProd.classList.toggle('hide')
 }
